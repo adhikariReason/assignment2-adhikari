@@ -43,3 +43,16 @@ Since you are already there, listed below are the places you can visit near to t
 ***
 [AboutMe](AboutMe.md)
 
+***
+
+## Cities to Visit
+
+While flying around half the globe to come to USA from Nepal, I have been through several cities. In the table below I have listed few cities which really are worth visiting.
+
+|City   |Important Location |Time to Visit  |
+| :---: | :---:        |:---:   |
+|Kathmandu, Nepal| Boudhanath Stupa| 6 hours|
+|Pokhara, Nepal | Rara Tal | 5 hours |
+|Doha, Qatar | The Pearl-Qatar| 3 hours |
+|St. Louis, MO, USA| The Gateway Arch | 2 hours |
+| Pensacola, FL, USA | National Naval Avation Museum | 5 hours|
