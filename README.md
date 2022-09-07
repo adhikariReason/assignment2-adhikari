@@ -10,7 +10,7 @@ The place is full of artifacts from former Narayanhiti Palace and an important p
 * Military Barrack
 ---
 ### Road to Narayanhiti
-To get to the museum the closet airport is **Tribhuvan International Airport**. Once you land follow given steps to get to the museum:
+To get to the museum, the closest airport is **Tribhuvan International Airport**. Once you land, follow given steps to get to the museum:
 1. Getting Taxi
     1) Walk to the Taxi parking within Airport
     2) Ask the driver, the cost of taking you to museum.
@@ -32,4 +32,11 @@ To get to the museum the closet airport is **Tribhuvan International Airport**. 
     1) Nice views in the way
     2) Good for health
 
+
+Since you are already there, listed below are the places you can visit near to the museum:
+* Garden of Dreams
+* Vasantpur Palace Square
+* Thamel (must go)
+* Swayambhu Mahachaitya (also must go)
+* Rani Pokhari
 
