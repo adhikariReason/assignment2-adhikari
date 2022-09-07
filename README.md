@@ -56,3 +56,9 @@ While flying around half the globe to come to USA from Nepal, I have been throug
 |Doha, Qatar | The Pearl-Qatar| 3 hours |
 |St. Louis, MO, USA| The Gateway Arch | 2 hours |
 | Pensacola, FL, USA | National Naval Avation Museum | 5 hours|
+
+***
+ ## Quotes
+  ```Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid. By *Albert Einstein*```
+
+  ```You must be the change you wish you see in the world. *Gandhi*```
